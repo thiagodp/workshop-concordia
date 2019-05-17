@@ -7,3 +7,5 @@ Workshop about Concordia
 How to download it:
 1. Click on "Clone or download" at the top-right corner;
 2. Click on "Download ZIP".
+
+Was it useful for you? Please consider Starring ★ it 😉
