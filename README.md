@@ -1,8 +1,8 @@
 # workshop-concordia
 
-Workshop about Concordia
+Workshop (in Portuguese) "PRODUZINDO ESPECIFICAÇÕES ÁGEIS E TESTES FUNCIONAIS COM CONCORDIA"
 
-- 2019-05-13 at CEFET-RJ Nova Friburgo - (18:30 - 21:30)
+- 2019-05-13 at CEFET-RJ Nova Friburgo - 18:30 - 21:30
 
 How to download it:
 1. Click on "Clone or download" at the top-right corner;
